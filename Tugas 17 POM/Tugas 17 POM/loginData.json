@@ -1,0 +1,9 @@
+{
+  "validUser": { "username": "Admin", "password": "admin123" },
+  "wrongPassword": { "username": "Admin", "password": "salahpassword" },
+  "wrongUsername": { "username": "AdminSalah", "password": "admin123" },
+  "invalidCombo": { "username": "UserTidakAda", "password": "passwordAsal" },
+  "lowercaseUsername": { "username": "admin", "password": "admin123" },
+  "usernameWithSpaces": { "username": " Admin ", "password": "admin123" },
+  "emptyCredential": { "username": "", "password": "" }
+}
