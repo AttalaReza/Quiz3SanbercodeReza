@@ -1,0 +1,7 @@
+{
+  "validJobTitle": "Software Engineer",
+  "validLocation": "Head Office",
+  "anotherJobTitle": "QA Engineer",
+  "invalidEmployeeName": "Zzxxqq123NamaTidakAda",
+  "jobTitleList": ["Software Engineer", "QA Engineer"]
+}

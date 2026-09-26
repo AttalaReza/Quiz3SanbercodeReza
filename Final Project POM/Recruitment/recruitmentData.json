@@ -1,0 +1,15 @@
+{
+  "validCandidate": {
+    "firstName": "Budi",
+    "lastName": "Santoso",
+    "email": "budi.santoso.test@example.com"
+  },
+  "invalidEmailCandidate": {
+    "firstName": "Siti",
+    "lastName": "Aminah",
+    "email": "emailtidakvalid@@mail"
+  },
+  "newVacancyName": "QA Engineer Automation Test",
+  "candidateSearchName": "Budi",
+  "statusList": ["Shortlisted", "Interview Scheduled"]
+}
